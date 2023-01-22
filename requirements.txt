@@ -1,0 +1,5 @@
+Python 3.0 or above
+docx2txt     # Python library to convert docx files into text
+PyPDF2       # Python library to convert pdf files into text
+os           # pre-installed Python library 
+pandas       # Python library for data manipulation and analysis
